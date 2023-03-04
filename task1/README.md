@@ -30,7 +30,7 @@ n бесконечно больших резервуаров, расположе
 		</tr>
 		<tr>
 			<td>2</td>
-			<td rowspan=1 align="left">1</td>
+			<td align="left">1</td>
 		</tr>
 		<tr>
 			<td>1 2</td>
