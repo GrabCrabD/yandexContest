@@ -26,8 +26,8 @@ __Ответ сравнивается с правильным посимволь
 
 <table>
     <tr>
-        <td width="400"><b>Ввод</b></td>
-        <td><b>Вывод</b></td>
+        <td width="300"><b>Ввод</b></td>
+        <td width="300"><b>Вывод</b></td>
     </tr>
     <tr>
         <td valign="top"><div>4<div>..._.#.<div>.##_...<div>.#._.##<div>..._...<div>7<div>2 left aisle<div>3 right window<div>2 left window<div>3 left aisle<div>1 right window<div>2 right window<div>1 right window</td>
