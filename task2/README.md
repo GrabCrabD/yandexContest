@@ -30,7 +30,7 @@ __Ответ сравнивается с правильным посимволь
         <td><b>Вывод</b></td>
     </tr>
     <tr>
-        <td align="top"><div>4<div>..._.#.<div>.##_...<div>.#._.##<div>..._...<div>7<div>2 left aisle<div>3 right window<div>2 left window<div>3 left aisle<div>1 right window<div>2 right window<div>1 right window</td>
+        <td valign="top"><div>4<div>..._.#.<div>.##_...<div>.#._.##<div>..._...<div>7<div>2 left aisle<div>3 right window<div>2 left window<div>3 left aisle<div>1 right window<div>2 right window<div>1 right window</td>
         <td><div>Passengers can take seats: 1B 1C<div>.xx_.#.<div>.##_...<div>.#._.##<div>..._...<div>Passengers can take seats: 2D 2E 2F<div>.##_.#.<div>.##_xxx<div>.#._.##<div>..._...<div>Passengers can take seats: 4A 4B<div>.##_.#.<div>.##_###<div>.#._.##<div>xx._...<div>Cannot fulfill Passengers requirements<div>Passengers can take seats: 1F<div>.##_.#x<div>.##_###<div>.#._.##<div>##._...<div>Passengers can take seats: 4E 4F<div>.##_.##<div>.##_###<div>.#._.##<div>##._.xx<div>Cannot fulfill Passengers requirements</td>
     </tr>
 </table>
